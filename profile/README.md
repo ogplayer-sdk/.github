@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ogplayer.tv"><img src="https://ogplayer.tv/images/og.jpg" width="560" alt="OGPlayer — native video SDKs, one API"></a>
+  <a href="https://ogplayer.tv"><img src="https://ogplayer.tv/images/og.jpg?v=rn" width="560" alt="OGPlayer — native video SDKs, one API"></a>
 </p>
 
 # OGPlayer
