@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ogplayer.tv"><img src="https://ogplayer.tv/images/og.jpg?v=flutter" width="560" alt="OGPlayer — native video SDKs, one API"></a>
+  <a href="https://ogplayer.tv"><img src="https://ogplayer.tv/images/og.jpg?v=flutter-1.1.1" width="560" alt="OGPlayer — native video SDKs, one API"></a>
 </p>
 
 # OGPlayer
