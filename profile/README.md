@@ -17,7 +17,7 @@ HLS · live & DVR · multi-DRM (Widevine / FairPlay / PlayReady) · Google IMA &
 | **Web** | [`ogplayer` on npm](https://www.npmjs.com/package/ogplayer) | [ogplayer-web-demos](https://github.com/ogplayer-sdk/ogplayer-web-demos) |
 | **Android TV · Fire TV** | the Android SDK, same artifacts | [ogplayer-android-demos](https://github.com/ogplayer-sdk/ogplayer-android-demos) (TV launcher) |
 | **Apple TV** | the iOS SDK, same package | [ogplayer-ios-demos](https://github.com/ogplayer-sdk/ogplayer-ios-demos) (tvOS target) |
-| **Samsung Tizen · LG webOS** | `ogplayer/tv` in the [`ogplayer`](https://www.npmjs.com/package/ogplayer) npm package | [ogplayer-web-demos/tv-apps](https://github.com/ogplayer-sdk/ogplayer-web-demos/tree/main/tv-apps) |
+| **Samsung Tizen · LG webOS** | `ogplayer/tv` in the [`ogplayer`](https://www.npmjs.com/package/ogplayer) npm package | [ogplayer-tv-demos](https://github.com/ogplayer-sdk/ogplayer-tv-demos) |
 | **React Native** | [`ogplayer-react-native` on npm](https://www.npmjs.com/package/ogplayer-react-native) | [ogplayer-react-native-demos](https://github.com/ogplayer-sdk/ogplayer-react-native-demos) |
 | **Flutter** | [`ogplayer_flutter` on pub.dev](https://pub.dev/packages/ogplayer_flutter) | [ogplayer-flutter-demos](https://github.com/ogplayer-sdk/ogplayer-flutter-demos) |
 
